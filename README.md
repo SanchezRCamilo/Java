@@ -20,7 +20,7 @@ Actualmente monitor de **Programación 1**. :heartbeat: :notes: <img height ="20
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
 - 📫 How to reach me: 
-   - <a><img height="25" src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png"> [Link]([Click Me](https://wa.me/+573008135810)</a>)
+   - <a><img height="25" src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png">([Click Me](https://wa.me/+573008135810)</a>)
 
 
 :star: [Camilo Sanchez](https://github.com/SanchezRCamilo)
