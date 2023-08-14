@@ -1,6 +1,6 @@
 ## Hello World!
 
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />(https://github.com/SanchezRCamilo) ]
+[<img src="https://camo.githubusercontent.com/af53424ad0be78e3ddb1f84c791ae532b0902eee11fd6f76ccc7fe979a2c4a10/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f4c65616e6472614f6c697665697261533f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" height="22" title="Follow me" />](https://github.com/SanchezRCamilo)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/s4nchez.camilo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:camilo.sanchez06@uptc.edu.co)
 
