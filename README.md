@@ -24,4 +24,4 @@ Actualmente monitor de **Programación 1**. :heartbeat: :notes: <img height ="20
 
 <img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
 
-:star: From [LeandraOliveiraS](https://github.com/LeandraOliveiraS)
+:star: [Camilo Sanchez](https://github.com/SanchezRCamilo)
